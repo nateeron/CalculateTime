@@ -1,0 +1,17 @@
+G:\M_save\c#\CalculateTime\CalculateTime\bin\Debug\net6.0-windows\CalculateTime.exe
+G:\M_save\c#\CalculateTime\CalculateTime\bin\Debug\net6.0-windows\CalculateTime.deps.json
+G:\M_save\c#\CalculateTime\CalculateTime\bin\Debug\net6.0-windows\CalculateTime.runtimeconfig.json
+G:\M_save\c#\CalculateTime\CalculateTime\bin\Debug\net6.0-windows\CalculateTime.dll
+G:\M_save\c#\CalculateTime\CalculateTime\bin\Debug\net6.0-windows\CalculateTime.pdb
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.csproj.AssemblyReference.cache
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.Form1.resources
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.csproj.GenerateResource.cache
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.GeneratedMSBuildEditorConfig.editorconfig
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.AssemblyInfoInputs.cache
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.AssemblyInfo.cs
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.csproj.CoreCompileInputs.cache
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.dll
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\refint\CalculateTime.dll
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.pdb
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\CalculateTime.genruntimeconfig.cache
+G:\M_save\c#\CalculateTime\CalculateTime\obj\Debug\net6.0-windows\ref\CalculateTime.dll

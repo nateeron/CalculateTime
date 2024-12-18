@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wr4Lwcr6PY2GH8udjMAZWIpf/PZw/PZEcRUW14elc5e3XlhY5DMuLWkwHl8+bOEyYL4F75Ppy/TOWHJgJQnoYw==",
+  "success": true,
+  "projectFilePath": "G:\\M_save\\c#\\CalculateTime\\CalculateTime\\CalculateTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.13\\microsoft.netcore.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\Dev\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
